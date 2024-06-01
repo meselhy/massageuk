@@ -370,6 +370,9 @@
         padding-left: 20%;
 
 	}
+	header .navbar #navbar.in{
+        padding-left: 5% !important;
+	}
 
 	header .navbar #navbar .dropdown li {
 		margin-left: 0;
@@ -416,13 +419,13 @@
 		background: #262626;
 		padding-top: 10px;
 		margin: 0 !important;
-		height: 160px;
+		height: 110px;
 	}
 
 	header .navbar-header button {
 		position: absolute;
 		left: 25px;
-		bottom: 40px;
+		bottom: 28px;
 	}
 
 	header .navbar-header button span {
