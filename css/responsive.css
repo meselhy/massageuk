@@ -337,8 +337,8 @@
 	}
 
 	header #navbar {
-		padding-left: 0;
-		padding-right: 0;
+		padding-top: 6%;
+        padding-left: 6%;
 		padding-top: 50px;
 	}
 }
@@ -366,6 +366,8 @@
 	header .navbar #navbar {
 		margin-top: 0;
         position: relative;
+		padding-top: 0%;
+        padding-left: 20%;
 
 	}
 
@@ -411,17 +413,16 @@
 	}
 
 	header .navbar-header {
-		background: #111;
+		background: #262626;
 		padding-top: 10px;
 		margin: 0 !important;
 		height: 160px;
 	}
 
 	header .navbar-header button {
-		border: 1px solid #fff;
 		position: absolute;
 		left: 25px;
-		bottom: 20px;
+		bottom: 40px;
 	}
 
 	header .navbar-header button span {

@@ -264,7 +264,9 @@ form input[type="number"] {
 .common-header .navbar #navbar .navbar-nav {
 	margin-top: 25px;
 }
-
+.navbar-brand {
+	padding: 0 0 !important;
+}
 
 /*right-buttons*/
 .common-header .right-buttons {
@@ -449,7 +451,7 @@ header .navbar .container {
 }
 
 header .navbar .navbar-nav {
-	margin-top: 37px;
+	margin-top: 25px;
 	visibility: hidden;
 	opacity: 0;
 	-webkit-transition: all 0.8s;
@@ -2356,8 +2358,9 @@ footer ul li a:hover {
 	height: 34px;
 	line-height: 34px;
 	font-size: 16px;
-	color: #666;
-	border: 1px solid #313131;
+	background-color: #86ab00;
+    color: #fff;
+	border: 1px solid #86ab00;
 	padding: 0;
 	text-align: center;
 	border-radius: 50%;
@@ -4522,7 +4525,8 @@ footer .copyright .nav a:hover {
 	line-height: 35px;
 	border-radius: 50%;
 	font-size: 16px;
-	color: #a5cc4c;
+	background-color: #fff;
+    color: #88a800;
 }
 
 #contact .social-links li a:hover {
