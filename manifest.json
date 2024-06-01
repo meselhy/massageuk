@@ -471,6 +471,17 @@
     "health",
     "medical"
   ],
+  "launch_handler": {
+    "client_mode": ["navigate-existing", "auto"]
+  },
+  "screenshots" : [
+    {
+      "src": "screenshot.jpg",
+      "sizes": "1374x727",
+      "type": "image/jpg",
+      "platform": "wide",
+    }
+  ],  
   "shortcuts": [
     {
       "name": "Deep Tissue Massage",
