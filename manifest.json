@@ -479,7 +479,7 @@
       "src": "screenshot.jpg",
       "sizes": "1374x727",
       "type": "image/jpg",
-      "platform": "wide",
+      "platform": "wide"
     }
   ],  
   "shortcuts": [
