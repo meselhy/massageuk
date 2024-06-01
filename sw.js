@@ -7,7 +7,7 @@ const PRECACHE_ASSETS = [
     '/service.html',
     '/contact.html',
     '/css/style.css',
-    '/css/responsive.css'
+    '/css/responsive.css',
 ]
 
 // Listener for the install event - pre-caches our assets list on service worker install.
