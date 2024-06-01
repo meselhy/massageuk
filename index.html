@@ -511,6 +511,11 @@
     <script type="text/javascript">
         emailjs.init('eqNWXpdLzC8YtSz-3')
     </script>
-
+    <script>
+        if (typeof navigator.serviceWorker !== 'undefined') {
+          navigator.serviceWorker.register('sw.js')
+        }
+      </script>
+      
 </body>
 </html>
