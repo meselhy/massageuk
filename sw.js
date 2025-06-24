@@ -21,10 +21,10 @@ workbox.routing.registerRoute(
 const CACHE_NAME = 'cool-cache';
 // Add whichever assets you want to pre-cache here:
 const PRECACHE_ASSETS = [
-    '/index.html',
-    '/about.html',
-    '/service.html',
-    '/contact.html',
+//    '/index.html',
+//    '/about.html',
+//    '/service.html',
+//    '/contact.html',
     '/css/style.css',
     '/css/responsive.css',
 ]
